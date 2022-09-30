@@ -1,0 +1,7 @@
+"ATP",Input
+"Acetyl-CoA",Intermediate
+"CO2",Input/Output
+"NADH",Input
+"Propionyl-CoA",Intermediate
+"Pyruvate",Intermediate
+"CoA",Input/Output

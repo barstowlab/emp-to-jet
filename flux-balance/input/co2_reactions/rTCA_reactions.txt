@@ -1,0 +1,3 @@
+4*CO2 + 4*ATP + 8*NADH → 2*Acetyl-CoA
+2*Fdred + 1*Acetyl-CoA + 1*CO2 → 1*Pyruvate
+Acetyl-CoA + CO2 + 3*NADH→ Propionyl-CoA

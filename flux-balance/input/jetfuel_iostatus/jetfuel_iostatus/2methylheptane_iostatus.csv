@@ -1,0 +1,55 @@
+"(R)-2,3-Dihydroxy-3-methylbutanoate",Intermediate
+"(S)-2-Acetolactate",Intermediate
+"(S)-Methylmalonyl-CoA",Intermediate
+"(2R,3S)-3-Isopropylmalate",Intermediate
+"(2S)-2-Isopropyl-3-oxosuccinate",Intermediate
+"2-Isopropylmalate",Intermediate
+"2-Oxoglutarate",Intermediate
+"3_Methyl_1_hydroxybutyl_ThPP",Intermediate
+"2_Methylpropanoyl_CoA",Intermediate
+"3-Hydroxy-3-methyl-2-oxobutanoic acid",Intermediate
+"3-Methyl-2-oxobutanoic acid",Intermediate
+"Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylpropanoyl_dihydrolipoyllysine",Intermediate
+"Enzyme N6_dihydrolipoyl_lysine",Input/Output
+"Enzyme N6_lipoyl_lysine",Input
+"NH3",Intermediate
+"Pyruvate",Input
+"Thiamin diphosphate",Input/Output
+"3-methyl-Oxoheptanoyl-CoA",Intermediate
+"3R-3-methyl-Hydroxypentanoyl-CoA",Intermediate
+"3R-3-Hydroxybutanoyl-CoA",Intermediate
+"5-3-methyl-Acetoacetyl-CoA",Intermediate
+"alpha-Isopropylmalate",Intermediate
+"Acetoacetyl-CoA",Intermediate
+"ADP",Input/Output
+"ATP",Input
+"Acetyl-CoA",Input/Output
+"But-2-enoyl-CoA",Intermediate
+"3-Methylbutanoyl-CoA",Intermediate
+"3-methyl-Pent-2-enoyl-CoA",Intermediate
+"3-methyl-Pentanoyl-CoA",Intermediate
+"CO2",Input/Output
+"CoA",Input/Output
+"H2O",Input/Output
+"HCO3-",Intermediate
+"2-methyl-Octanoyl-CoA",Intermediate
+"2-methyl-Octanoic acid",Intermediate
+"2-methyl-Oxohexanoyl-CoA",Intermediate
+"2-methyl-Oxooctanoyl-CoA",Intermediate
+"2-methyl-Heptane",Target
+"2-methyl-Hexanoyl-CoA",Intermediate
+"3-methyl-Heptanoic acid",Intermediate
+"3-methyl-Heptanoyl-CoA",Intermediate
+"2-methyl-trans-hex-2-enoyl-CoA",Intermediate
+"2-methyl-trans-oct-2-enoyl-CoA",Intermediate
+"4-Methyl-2-oxopenanoate",Intermediate
+"Hplus",Input/Output
+"Malonyl-CoA",Intermediate
+"NADH",Input
+"NADPH",Intermediate
+"NADPplus",Input/Output
+"NADplus",Input/Output
+"Orthophosphate",Input/Output
+"Propionyl-CoA",Input/Output
+"S-2-methyl-Hydroxyhexanoyl-CoA",Intermediate
+"S-2-methyl-Hydroxyoctanoyl-CoA",Intermediate

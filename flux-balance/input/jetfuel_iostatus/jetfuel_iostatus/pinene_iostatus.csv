@@ -1,0 +1,22 @@
+ADP,Output
+ATP,Input
+Acetoacetyl-CoA,Intermediate
+Acetyl-CoA,Intermediate
+CO2,Input/Output
+CoA,Input/Output
+Dimethylallyl diphosphate,Intermediate
+Geranyl diphosphate,Intermediate
+H2O,Input/Output
+HMG-CoA,Intermediate
+Hplus,Input/Output
+Isopentanyl diphosphate,Intermediate
+Mevalonate,Intermediate
+Mevalonate-5-diphosphate,Intermediate
+Mevalonate-5-phosphate,Intermediate
+NADH,Input
+NADplus,Input/Output
+NADPH,Intermediate
+NADPplus,Input/Output
+Orthophosphate,Input/Output
+Pinene,Target
+diphosphate,Input/Output

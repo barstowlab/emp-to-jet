@@ -1,0 +1,18 @@
+Propionyl-CoA + CO2 → (S)-Methylmalonyl-CoA
+CO2 + H2O → HCO3- + Hplus
+ATP + Acetyl-CoA + HCO3- → ADP + Orthophosphate + Malonyl-CoA
+Acetyl-CoA + (S)-Methylmalonyl-CoA → 3-methyl-Acetoacetyl-CoA + CO2 + CoA
+3-methyl-Acetoacetyl-CoA + NADPH + Hplus → 3R-3-methyl-3-Hydroxybutanoyl-CoA + NADPplus
+3R-3-methyl-3-Hydroxybutanoyl-CoA → 3-methyl-But-2-enoyl-CoA + H2O
+3-methyl-But-2-enoyl-CoA + NADPH + Hplus → 3-methyl-Butanoyl-CoA + NADPplus
+Malonyl-CoA + 3-methyl-Butanoyl-CoA → CoA + CO2 + 3-methyl-Oxohexanoyl-CoA
+3-methyl-Oxohexanoyl-CoA + NADH + Hplus → S-3-methyl-Hydroxyhexanoyl-CoA + NADplus
+S-3-methyl-Hydroxyhexanoyl-CoA → 3-methyl-trans-hex-2-enoyl-CoA + H2O
+3-methyl-trans-hex-2-enoyl-CoA + NADPH + Hplus → 3-methyl-Hexanoyl-CoA + NADPplus
+Malonyl-CoA + 3-methyl-Hexanoyl-CoA → CoA + CO2 + 3-methyl-Oxooctanoyl-CoA
+3-methyl-Oxooctanoyl-CoA + NADH + Hplus → S-3-methyl-Hydroxyoctanoyl-CoA + NADplus
+S-3-methyl-Hydroxyoctanoyl-CoA → 3-methyl-trans-oct-2-enoyl-CoA + H2O
+3-methyl-trans-oct-2-enoyl-CoA + NADPH + Hplus → 3-methyl-Octanoyl-CoA + NADPplus
+3-methyl-Octanoyl-CoA + H2O → CoA + 3-methyl-Octanoic acid
+3-methyl-Octanoic acid → CO2 + 3-methyl-Heptane
+NADH + NADPplus → NADPH + NADplus

@@ -1,0 +1,4 @@
+L_Leucine + 2_Oxoglutarate → 4_Methyl_2_oxopentanoate + L_Glutamate
+4_Methyl_2_oxopentanoate + Thiamin diphosphate → 3_Methyl_1_hydroxybutyl_ThPP + CO2
+3_Methyl_1_hydroxybutyl_ThPP + Enzyme N6_lipoyl_lysine → Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylbutanoyl_dihydrolipoyllysine + Thiamin diphosphate
+CoA + Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylbutanoyl_dihydrolipoyllysine → 3_Methylbutanoyl_CoA + Enzyme N6_dihydrolipoyl_lysine 

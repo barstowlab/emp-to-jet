@@ -1,0 +1,13 @@
+2*Pyruvate → (S)-2-Acetolactate + CO2
+(S)-2-Acetolactate → 3-Hydroxy-3-methyl-2-oxobutanoic acid
+3-Hydroxy-3-methyl-2-oxobutanoic acid + NADPH → (R)-2,3-Dihydroxy-3-methylbutanoate
+(R)-2,3-Dihydroxy-3-methylbutanoate → 3-Methyl-2-oxobutanoic acid
+Acetyl-CoA + 3-Methyl-2-oxobutanoic acid → alpha-Isopropylmalate
+alpha-Isopropylmalate → 2-Isopropylmaleate
+2-Isopropylmaleate → (2R,3S)-3-Isopropylmalate 
+(2R,3S)-3-Isopropylmalate → (2S)-2-Isopropyl-3-oxosuccinate + NADH
+(2S)-2-Isopropyl-3-oxosuccinate → 4-Methyl-2-oxopentanoate + CO2  
+4-Methyl-2-oxopentanoate + Thiamin diphosphate → 3_Methyl_1_hydroxybutyl_ThPP + CO2
+3_Methyl_1_hydroxybutyl_ThPP + Enzyme N6_lipoyl_lysine → Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylbutanoyl_dihydrolipoyllysine + Thiamin diphosphate
+CoA + Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylbutanoyl_dihydrolipoyllysine → 3_Methylbutanoyl_CoA + Enzyme N6_dihydrolipoyl_lysine
+NADH + NADPplus → NADPH + NADplus

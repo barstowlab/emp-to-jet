@@ -1,0 +1,9 @@
+16*ATP + 8*Fdred + 1*N2 → 2*NH3 + 1*H2
+1*Pyruvate + 1*Acetyl-CoA + 1*ATP + 1*HCO3- → 1*2-Oxoglutarate + 1*CO2 + 1*NADH
+1*2-Oxoglutarate + 1*NH3 + 1*NADH → 1*L-Glutamate + 1*H2O
+1*2-Oxoglutarate + 1*CO2 + 1*NADH → 1*Isocitrate
+1*Isocitrate → 1*cis-Aconitate
+1*cis-Aconitate → 1*Citrate
+1*Citrate → 1*Acetyl-CoA + 1*Oxaloacetate
+1*Oxaloacetate + 1*L-Glutamate → 1*L-Aspartate + 1*2-Oxoglutarate
+1*L-Aspartate → 1*L-Alanine + 1*CO2

@@ -1,0 +1,23 @@
+(2E_6E)-Farmesyl diphosphate,Intermediate
+ADP,Input/Output
+ATP,Input
+Acetoacetyl-CoA,Intermediate
+Acetyl-CoA,Input/Output
+CO2,Input/Output
+CoA,Intermediate
+Dimethylallyl diphosphate,Intermediate
+Farnesene,Target
+Geranyl diphosphate,Intermediate
+H2O,Input/Output
+HMG-CoA,Intermediate
+Hplus,Input/Output
+Isopentanyl diphosphate,Intermediate
+Mevalonate,Intermediate
+Mevalonate-5-diphosphate,Intermediate
+Mevalonate-5-phosphate,Intermediate
+NADH,Input
+NADPH,Intermediate
+NADPplus,Input/Output
+NADplus,Input/Output
+Orthophosphate,Input/Output
+diphosphate,Input/Output

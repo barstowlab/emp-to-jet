@@ -1,0 +1,25 @@
+CO2 + H2O → HCO3- + Hplus
+ATP + Acetyl-CoA + HCO3- → ADP + Orthophosphate + Malonyl-CoA
+2*Pyruvate → (S)-2-Acetolactate + CO2
+(S)-2-Acetolactate → 3-Hydroxy-3-methyl-2-oxobutanoic acid
+3-Hydroxy-3-methyl-2-oxobutanoic acid + NADPH + Hplus → (R)-2,3-Dihydroxy-3-methylbutanoate + NADPplus
+(R)-2,3-Dihydroxy-3-methylbutanoate → 3-Methyl-2-oxobutanoic acid + H2O
+Acetyl-CoA + 3-Methyl-2-oxobutanoic acid + H2O → alpha-Isopropylmalate + CoA
+alpha-Isopropylmalate → 2-Isopropylmalate + H2O
+2-Isopropylmalate + H2O → (2R,3S)-3-Isopropylmalate 
+(2R,3S)-3-Isopropylmalate + NADplus → (2S)-2-Isopropyl-3-oxosuccinate + NADH + Hplus
+(2S)-2-Isopropyl-3-oxosuccinate → 4-Methyl-2-oxopentanoate + CO2  
+4-Methyl-2-oxopentanoate + Thiamin diphosphate → 3_Methyl_1_hydroxybutyl_ThPP + CO2
+3_Methyl_1_hydroxybutyl_ThPP + Enzyme N6_lipoyl_lysine → Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylbutanoyl_dihydrolipoyllysine + Thiamin diphosphate
+CoA + Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_3_methylbutanoyl_dihydrolipoyllysine → 3_Methylbutanoyl_CoA + Enzyme N6_dihydrolipoyl_lysine
+Malonyl-CoA + 3_Methylbutanoyl_CoA → CoA + CO2 + 2-methyl-Oxohexanoyl-CoA
+2-methyl-Oxohexanoyl-CoA + NADH + Hplus → S-2-methyl-Hydroxyhexanoyl-CoA + NADplus
+S-2-methyl-Hydroxyhexanoyl-CoA → 2-methyl-trans-hex-2-enoyl-CoA + H2O
+2-methyl-trans-hex-2-enoyl-CoA + NADPH + Hplus → 2-methyl-Hexanoyl-CoA + NADPplus
+Malonyl-CoA + 2-methyl-Hexanoyl-CoA → CoA + CO2 + 2-methyl-Oxooctanoyl-CoA
+2-methyl-Oxooctanoyl-CoA + NADH + Hplus → S-2-methyl-Hydroxyoctanoyl-CoA + NADplus
+S-2-methyl-Hydroxyoctanoyl-CoA → 2-methyl-trans-oct-2-enoyl-CoA + H2O
+2-methyl-trans-oct-2-enoyl-CoA + NADPH + Hplus → 2-methyl-Octanoyl-CoA + NADPplus
+2-methyl-Octanoyl-CoA + H2O → CoA + 2-methyl-Octanoic acid
+2-methyl-Octanoic acid → CO2 + 2-methyl-Heptane
+NADH + NADPplus → NADPH + NADplus

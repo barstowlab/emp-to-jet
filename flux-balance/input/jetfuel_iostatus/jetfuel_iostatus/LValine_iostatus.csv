@@ -1,0 +1,23 @@
+"(R)-2,3-Dihydroxy-3-methylbutanoate",Intermediate
+"(S)-2-Acetolactate",Intermediate
+"2-Oxoglutarate",Intermediate
+"2_Methyl_1_hydroxypropyl_ThPP",Intermediate
+"2_Methylpropanoyl_CoA",Target
+"3-Hydroxy-3-methyl-2-oxobutanoic acid",Intermediate
+"3-Methyl-2-oxobutanoic acid",Intermediate
+"ATP",Input
+"Acetyl-CoA",Intermediate
+"CO2",Input/Output
+"CoA",Input/Output
+"Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_2_methylpropanoyl_dihydrolipoyllysine",Intermediate
+"Enzyme N6_dihydrolipoyl_lysine",Input/Output
+"Enzyme N6_lipoyl_lysine",Input
+"H2O",Input/Output
+"HCO3-",Input/Output
+"NADH",Input
+"NADPH",Intermediate
+"NADPplus",Input/Output
+"NADplus",Input/Output
+"NH3",Intermediate
+"Pyruvate",Input
+"Thiamin diphosphate",Input/Output

@@ -1,0 +1,4 @@
+CO2 + H2O → HCO3- + Hplus
+6*HCO3- + 10*ATP + 12*NADH → 2*Pyruvate
+2*Pyruvate → 2*Acetyl-CoA + 2*NADH + 2*CO2
+Acetyl-CoA + CO2 + 3*NADH→ Propionyl-CoA
