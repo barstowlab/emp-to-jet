@@ -1,0 +1,10 @@
+ATP + Acetyl-CoA + HCO3minus → ADP + Orthophosphate + Malonyl-CoA
+Acetyl-CoA + Malonyl-CoA → Acetoacetyl-CoA + CO2 + CoA
+Acetoacetyl-CoA + NADPH +Hplus → 3R-3-Hydroxybutanoyl-CoA + NADPplus
+3R-3-Hydroxybutanoyl-CoA → But-2-enoyl-CoA + H2O
+But-2-enoyl-CoA + NADPH + Hplus → Butanoyl-CoA + NADPplus
+Acetyl-CoA + Butanoyl-CoA → CoA + 3-Oxohexanoyl-CoA
+3-Oxohexanoyl-CoA + NADH + Hplus → S-Hydroxyhexanoyl-CoA + NADplus
+S-Hydroxyhexanoyl-CoA → trans-hex-2-enoyl-CoA + H2O
+trans-hex-2-enoyl-CoA + NADPH + Hplus → Hexanoyl-CoA + NADPplus
+Hexanoyl-CoA + H2O → CoA + Hexanoic acid

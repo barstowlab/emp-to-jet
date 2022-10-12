@@ -1,0 +1,23 @@
+"(R)-2,3-Dihydroxy-3-methylpentanoate",Intermediate
+"(R)-2-Methylmalate",Intermediate
+"(R)-3-Hydroxy-3-methyl-2-oxopentanoate",Intermediate
+"(S)-2-Aceto-2-hydroxybutanoate",Intermediate
+"(S)-3-Methyl-2-oxopentanoic acid",Intermediate
+"2-Methylmaleate",Intermediate
+"2-Oxobutanoate",Intermediate
+"2_Methyl_1_hydroxybutyl_ThPP",Intermediate
+"Acetyl-CoA",Intermediate
+"CO2",Input/Output
+"CoA",Intermediate
+"D-erythro-3-Methylmalate",Intermediate
+"Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_2_methylbutanoyl_dihydrolipoyllysine",Intermediate
+"Enzyme N6_(lipoyl)lysine",Intermediate
+"Enzyme N6_dihydrolipoyl_lysine",Intermediate
+"H2O",Input/Output
+"NADH",Input
+"NADPH",Intermediate
+"NADPplus",Intermediate
+"NADplus",Intermediate
+"Pyruvate",Intermediate
+"S_2_Methylbutanoyl_CoA",Intermediate
+"Thiamin diphosphate",Intermediate
