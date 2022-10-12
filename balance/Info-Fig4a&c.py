@@ -1,3 +1,5 @@
+# Generates a table of input and output values for the generation of straight-chain alkanes. 
+
 # ------------------------------------------------------------------------------------------------ #
 def ExportStoichiometricMatrix(sMatrixT, reactions_full, compoundsUnique_full, mergedIOStatus):
 
@@ -55,6 +57,7 @@ from utils.balanceUtils import SolveFluxBalanceEquation, ConvertIndexedSMatrix, 
 ImportReactionFile, GenerateIndexedSMatrixT, PrintStoichiometry, GenerateMergedIOStatusList, \
 ImportIOStatus
 import os.path
+from os.path import join
 from utils.vectorOutput import generateOutputMatrixWithHeaders, writeOutputMatrix
 from utils.specutils12 import ensure_dir
 import pdb
@@ -66,13 +69,19 @@ co2IOStatusDirName = 'input/co2_iostatus'
 aaReactionsDirName = 'input/jetfuel_reactions'
 co2ReactionsDirName = 'input/co2_reactions'
 
+outputDir = 'output/Info-Fig4a&c/'
+ensure_dir(outputDir)
+reactantOutputFilePath = 'output/Info-Fig4a&c/stable-nReactants.csv'
+ensure_dir(reactantOutputFilePath)
+
+
 
 aaIOStatusFileNames = [\
-'pinene_iostatus.csv', \
-'limonene_iostatus.csv', \
-'farnesene_iostatus.csv', \
-'bisabolene_iostatus.csv', \
-'geraniol_iostatus.csv', \
+'hexanoicacidADO_iostatus.csv', \
+'heptanoicacidADO_iostatus.csv', \
+'octanoicacidADO_iostatus.csv', \
+'nonanoicacidADO_iostatus.csv', \
+'decanoicacidADO_iostatus.csv', \
 'undecanoicacidADO_iostatus.csv', \
 'dodecanoicacidADO_iostatus.csv', \
 'tridecanoicacidADO_iostatus.csv', \
@@ -83,11 +92,11 @@ aaIOStatusFileNames = [\
 ]
 
 aaReactionsFileNames = [\
-'pinene_reactions.txt', \
-'limonene_reactions.txt', \
-'farnesene_reactions.txt', \
-'bisabolene_reactions.txt', \
-'geraniol_reactions.txt', \
+'hexanoicacidADO_reactions.txt', \
+'heptanoicacidADO_reactions.txt', \
+'octanoicacidADO_reactions.txt', \
+'nonanoicacidADO_reactions.txt', \
+'decanoicacidADO_reactions.txt', \
 'undecanoicacidADO_reactions.txt', \
 'dodecanoicacidADO_reactions.txt', \
 'tridecanoicacidADO_reactions.txt', \
@@ -98,29 +107,17 @@ aaReactionsFileNames = [\
 ]
 
 co2ReactionsFileNames = [\
-'3HP4HB_reactions.txt', \
-'3HP_reactions.txt', \
-'4HB_reactions.txt', \
 'CBB_reactions.txt', \
-'FORM_reactions.txt', \
-'WL_reactions.txt', \
-'rTCA_reactions.txt' \
 ]
 
 co2IOStatusFileNames = [\
-'3HP4HB_iostatus.csv', \
-'3HP_iostatus.csv', \
-'4HB_iostatus.csv', \
 'CBB_iostatus.csv', \
-'FORM_iostatus.csv', \
-'WL_iostatus.csv', \
-'rTCA_iostatus.csv' \
 ]
 
 
 reactantsToGet = ['ATP', 'NADH', 'Fdred', 'Sulfate', 'N2', 'CO2', 'HCO2-', 'H2O', 'Hplus', 'CO']
-reactantOutputFilePath = 'output/jetfuel/stable-nReactants.csv'
-ensure_dir(reactantOutputFilePath)
+
+
 
 
 # ------------------------------------------------------------------------------------------------ #
@@ -258,7 +255,9 @@ for aaKey in aaKeys:
 		oMatrix = \
 		ExportStoichiometricMatrix(sMatrixT, reactions_full, compoundsUnique_full, mergedIOStatus)
 		
-		writeOutputMatrix(scenarioKey + '.csv', oMatrix)
+		outputFileName = join(outputDir, scenarioKey + '.csv')
+		
+		writeOutputMatrix(outputFileName, oMatrix)
 		
 # ------------------------------------------------------------------------------------------------ #
 

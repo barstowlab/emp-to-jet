@@ -67,11 +67,10 @@ co2IOStatusDirName = 'input/co2_iostatus'
 aaReactionsDirName = 'input/jetfuel_reactions'
 co2ReactionsDirName = 'input/co2_reactions'
 
-outputDir = 'output/Info-Fig4b&d/'
+outputDir = 'output/Info-Fig5a&c/'
 ensure_dir(outputDir)
-reactantOutputFilePath = 'output/Info-Fig4b&d/stable-nReactants.csv'
+reactantOutputFilePath = 'output/Info-Fig5a&c/stable-nReactants.csv'
 ensure_dir(reactantOutputFilePath)
-
 
 aaIOStatusFileNames = [\
 'pinene_iostatus.csv', \
@@ -79,6 +78,13 @@ aaIOStatusFileNames = [\
 'farnesene_iostatus.csv', \
 'bisabolene_iostatus.csv', \
 'geraniol_iostatus.csv', \
+'undecanoicacidADO_iostatus.csv', \
+'dodecanoicacidADO_iostatus.csv', \
+'tridecanoicacidADO_iostatus.csv', \
+'tetradecanoicacidADO_iostatus.csv', \
+'pentadecanoicacidADO_iostatus.csv', \
+'hexadecanoicacidADO_iostatus.csv', \
+'heptadecanoicacidADO_iostatus.csv', \
 ]
 
 aaReactionsFileNames = [\
@@ -87,14 +93,33 @@ aaReactionsFileNames = [\
 'farnesene_reactions.txt', \
 'bisabolene_reactions.txt', \
 'geraniol_reactions.txt', \
+'undecanoicacidADO_reactions.txt', \
+'dodecanoicacidADO_reactions.txt', \
+'tridecanoicacidADO_reactions.txt', \
+'tetradecanoicacidADO_reactions.txt', \
+'pentadecanoicacidADO_reactions.txt', \
+'hexadecanoicacidADO_reactions.txt', \
+'heptadecanoicacidADO_reactions.txt', \
 ]
 
 co2ReactionsFileNames = [\
+'3HP4HB_reactions.txt', \
+'3HP_reactions.txt', \
+'4HB_reactions.txt', \
 'CBB_reactions.txt', \
+'FORM_reactions.txt', \
+'WL_reactions.txt', \
+'rTCA_reactions.txt' \
 ]
 
 co2IOStatusFileNames = [\
+'3HP4HB_iostatus.csv', \
+'3HP_iostatus.csv', \
+'4HB_iostatus.csv', \
 'CBB_iostatus.csv', \
+'FORM_iostatus.csv', \
+'WL_iostatus.csv', \
+'rTCA_iostatus.csv' \
 ]
 
 
