@@ -1,3 +1,0 @@
-ATP + Acetyl-CoA + HCO3- → ADP + Orthophosphate + Malonyl-CoA
-Acetyl-CoA + 1*Malonyl-CoA + 2*NADPH + 2*Hplus → 1_Long-chain fatty acid + 1*CO2 + 2*NADPplus + 2*CoA + 1*H2O
-NADH + NADPplus → NADPH + NADplus

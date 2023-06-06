@@ -1,4 +1,0 @@
-L_Valine + 2_Oxoglutarate → 3_Methyl_2_oxobutanoic acid + L_Glutamate
-3_Methyl_2_oxobutanoic acid + Thiamin diphosphate → 2_Methyl_1_hydroxypropyl_ThPP + CO2
-2_Methyl_1_hydroxypropyl_ThPP + Enzyme N6_lipoyl_lysine → Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_2_methylpropanoyl_dihydrolipoyllysine + Thiamin diphosphate
-CoA + Dihydrolipoyllysine_residue_2_methylpropanoyl_transferase S_2_methylpropanoyl_dihydrolipoyllysine → 2_Methylpropanoyl_CoA + Enzyme N6_dihydrolipoyl_lysine

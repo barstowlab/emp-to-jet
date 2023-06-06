@@ -1,3 +1,0 @@
-2*CO2 + 7*ATP + 4*NADH + 1*CoA → 1*Acetyl-CoA
-3*CO2 + 7*ATP + 5*NADH → 1*Pyruvate
-3*CO2 + 7*ATP + 7*NADH + CoA → Propionyl-CoA
